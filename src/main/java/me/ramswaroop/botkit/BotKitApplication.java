@@ -9,7 +9,7 @@ public class BotKitApplication {
     /**
      * Entry point of the application. Run this method to start the sample bots,
      * but don't forget to add the correct tokens in application.properties file.
-     *
+     * .eswar.
      * @param args
      */
     public static void main(String[] args) {
